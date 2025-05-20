@@ -1,4 +1,5 @@
 # Tokyonight Theme for MultiMC
+A custom MultiMC theme that celebrates the lights of Downtown Tokyo at night.
 
 ## Screenshots
 Tokyo Night
