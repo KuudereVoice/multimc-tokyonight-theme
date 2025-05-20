@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#16161e",
+        "Base": "#1a1b26",
+        "BrightText": "#ff0000",
+        "Button": "#1a1b26",
+        "ButtonText": "#9aa5ce",
+        "Highlight": "#44475A75",
+        "HighlightedText": "#9aa5ce",
+        "Link": "#73daca",
+        "Text": "#a9b1d6",
+        "ToolTipBase": "#E1E1E6",
+        "ToolTipText": "#9aa5ce",
+        "Window": "#16161e",
+        "WindowText": "#9aa5ce",
+        "fadeAmount": 0,
+        "fadeColor": "#000000"
+    },
+    "name": "Tokyonight-night",
+    "widgets": "Fusion"
+}
